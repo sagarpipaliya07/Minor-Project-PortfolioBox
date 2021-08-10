@@ -1,0 +1,16 @@
+Portfolio Website :- Create a portfolio website to show off your projects and achievements to prospective employers.
+
+complete nodejs with mongodb and express js
+https://www.youtube.com/watch?v=gmHX8o5h7go&list=PLNHw_0qv1zy_UEXiWaqSXiLSwwE8mjuj7
+
+website refer
+https://www.indeed.com/career-advice/resumes-cover-letters/build-your-work-portfolio
+
+template
+https://bootstrapmade.com/laura-free-creative-bootstrap-theme/
+
+https://www.bootstrapdash.com/free-bootstrap-simple-admin-templates/ (admin)
+
+
+site demo
+https://www.youtube.com/watch?v=VpxqfPGo1MY
